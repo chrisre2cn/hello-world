@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieDBapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="mostPopular">"popularity.desc"</string>
+    <string name="bestRated">"vote_average.desc"</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
